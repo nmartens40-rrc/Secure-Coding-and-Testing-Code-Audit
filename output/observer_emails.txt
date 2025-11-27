@@ -1,0 +1,30 @@
+---
+To: nmartens40@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-03-14 12:13:42.605049
+Message: Notification for 1: Nick Martens: Large Transaction 10,000.00: on account 1
+---
+---
+To: nmartens40@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-03-14 12:13:42.606065
+Message: Notification for 1: Nick Martens: Low balance warning 0.00: on account 1
+---
+---
+To: nmartens40@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-03-14 12:13:42.606065
+Message: Notification for 1: Nick Martens: Large Transaction -10,060.00: on account 1
+---
+---
+To: nmartens40@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-03-14 12:13:42.607042
+Message: Notification for 1: Nick Martens: Large Transaction 10,000.00: on account 2
+---
+---
+To: nmartens40@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-03-14 12:13:42.607042
+Message: Notification for 1: Nick Martens: Low balance warning 0.00: on account 2
+---
+---
+To: nmartens40@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-03-14 12:13:42.608041
+Message: Notification for 1: Nick Martens: Large Transaction -10,060.00: on account 2
+---
